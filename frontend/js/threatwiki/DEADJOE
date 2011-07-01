@@ -1,0 +1,23 @@
+
+*** These modified files were found in JOE when it aborted on Sun Jun 19 08:20:44 2011
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+wsgi
+wsgi
+WSGIScriptAlias
+WSGIScriptAlias
+WSGISocketPrefix
+
+*** File '(Unnamed)'
+.htaccess
+.htaccess
+.htaccess
+.svn-policy-file
+.htaccess
+.htaccess
+.htaccess
+.htaccess
+.htaccess
+threatwiki.php
+threatwiki.js
